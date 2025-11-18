@@ -17,8 +17,7 @@
 ---
 
 ### 🌐 Conecte-se comigo  
-- [LinkedIn](https://www.linkedin.com/in/osvaldo-ramalho/) *(adicione seu link aqui)*   
-
+- [LinkedIn](https://www.linkedin.com/in/osvaldo-ramalho/) 
 ---
 
 ⭐ Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!
