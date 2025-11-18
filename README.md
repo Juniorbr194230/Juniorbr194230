@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Juniorbr194230/Juniorbr194230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Juniorbr194230  
 
-Here are some ideas to get you started:
+✨ Este é um repositório especial porque o `README.md` aparece diretamente no meu perfil do GitHub. ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 🔭 Atualmente estou trabalhando em projetos pessoais de desenvolvimento e explorando novas ideias.  
+- 🌱 Estou aprendendo **JavaScript, Python e desenvolvimento web**.  
+- 👯 Procuro colaborar em projetos open-source e iniciativas que envolvam tecnologia e inovação.  
+- 🤔 Estou em busca de ajuda para melhorar minhas habilidades em **boas práticas de programação** e **arquitetura de software**.  
+- 💬 Pergunte-me sobre **GitHub, programação básica, lógica de programação e ferramentas de desenvolvimento**.  
+- 📫 Como entrar em contato comigo: [osvaldorramalho76548@gmail.com](mailto:osvaldorramalho76548@gmail.com)  
+- 😄 Pronomes: ele/dele  
+- ⚡ Curiosidade: adoro aprender coisas novas e acredito que a tecnologia pode transformar vidas!  
+
+---
+
+### 🌐 Conecte-se comigo  
+- [LinkedIn](https://www.linkedin.com/in/osvaldo-ramalho/) *(adicione seu link aqui)*   
+
+---
+
+⭐ Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!
