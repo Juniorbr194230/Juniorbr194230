@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Olá, eu sou o Juniorbr194230  
+# 👋 Olá, eu sou o Osvaldo Junior 
 
 ✨ Este é um repositório especial porque o `README.md` aparece diretamente no meu perfil do GitHub. ✨  
 
